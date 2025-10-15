@@ -7,7 +7,7 @@
 ## 📘 Session Overview
 This repository contains the workshop materials for the session  
 **“AI Tech for Adaptive Agriculture: Vibe Coding for Agricultural Applications”**,  
-held during the [EcoReady Conference 2025](https://ecoready.eu).
+held during the [EcoReady Conference 2025](https://eco-ready.eu).
 
 The session explores how **vibe coding** and lightweight AI prototyping methods can support adaptive, data-driven farming systems.  
 Participants design small “living dashboard” applications using simplified datasets and open tools.
